@@ -69,16 +69,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdeMaq&show_icons=true&theme=minimal&hide_border=true&title_color=c45c2e&icon_color=1a5c8a" alt="Adeeba's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeMaq&layout=compact&theme=minimal&hide_border=true&title_color=c45c2e" alt="Top Languages" />
-</p>
-
----
-
 ### 🏆 Highlights
 
 - 🎪 Team member at **PUCON (App Odyssey)**, **Cosmocon**, and **Career Fair**

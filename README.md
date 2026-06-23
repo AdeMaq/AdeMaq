@@ -63,12 +63,12 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| 🛠️ [RentAll](https://github.com/AdeMaq) | .NET · Angular · Stripe | Peer-to-peer equipment rental platform with booking calendars, JWT auth, and Stripe-secured deposits |
-| 🏋️ [FitBot](https://github.com/AdeMaq) | ASP.NET Core · React · FastAPI · PyTorch | 4-microservice AI fitness platform — BMI prediction, posture correction, and video recommendations |
-| 🛒 [Wise Market Clone](https://github.com/AdeMaq) | React · Node.js · Express · PostgreSQL | Full-stack e-commerce clone built during my internship at Cybros |
+| 🛠️ [RentAll](https://github.com/AdeMaq/RentAll) | .NET · Angular · Stripe | Peer-to-peer equipment rental platform with booking calendars, JWT auth, and Stripe-secured deposits |
+| 🏋️ [FitBot](https://github.com/AdeMaq/FYP-Health-Assistant.git) | ASP.NET Core · React · FastAPI · PyTorch | 4-microservice AI fitness platform — BMI prediction, posture correction, and video recommendations |
+| 🛒 [Wise Market Clone](https://github.com/AdeMaq/MyApp) | React · Node.js · Express · PostgreSQL | Full-stack e-commerce clone built during my internship at Cybros |
 | 💼 [JobPortal-SkillHunt](https://github.com/AdeMaq/JobPortal-SkillHunt) | ASP.NET MVC · SQL Server · Docker | Secure job portal with Clean Architecture, employer & seeker flows |
 | 🏥 [hospitalManagementSystem](https://github.com/AdeMaq/hospitalManagmentSystem) | C# | Console-based hospital management system |
-| 🔧 [jenkins-python-app](https://github.com/AdeMaq/jenkins-python-app) | Python · Jenkins | CI/CD pipeline setup with Jenkins and Python |
+
 
 ---
 

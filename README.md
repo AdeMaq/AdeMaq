@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a recent Software Engineering graduate currently working as a Software Development Intern at **Devbais**, building with Angular and .NET MAUI. My background spans the full stack — React/Node on one side, ASP.NET Core/Angular on the other — and I gravitate toward projects that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with real payment handling, a job portal built around SOLID principles.
+I'm a recent Software Engineering graduate currently working as a Software Development Intern at **Devbasis**, building with Angular and .NET MAUI. My background spans the full stack — React/Node on one side, ASP.NET Core/Angular on the other — and I gravitate toward projects that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with real payment handling, a job portal built around SOLID principles.
 
 - Currently building with **Angular** and **.NET MAUI** @ Devbais
 - Previously interned at **Cybros**, working across PostgreSQL, MongoDB, TypeORM, React, Node.js, and Express
@@ -151,7 +151,7 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdeMaq&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AdeMaq&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>

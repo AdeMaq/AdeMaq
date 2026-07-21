@@ -25,7 +25,7 @@
 
 ## About
 
-I'm a recent Software Engineering graduate currently working as a Software Development Intern at **Devbasis**, building with Angular and .NET MAUI. My background spans the full stack — React/Node on one side, ASP.NET Core/Angular on the other, and I gravitate toward projects that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with real payment handling, a job portal built around SOLID principles.
+I'm a recent Software Engineering graduate currently working as a Software Development Intern at **Devbasis**, building with Angular and .NET MAUI. My background spans the full stack, React/Node on one side, ASP.NET Core/Angular on the other, and I gravitate toward projects that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with real payment handling, a job portal built around SOLID principles.
 
 - Currently building with **Angular** and **.NET MAUI** @ Devbais
 - Previously interned at **Cybros**, working across PostgreSQL, MongoDB, TypeORM, React, Node.js, and Express

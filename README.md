@@ -6,15 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:adeebamaqbool198@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/adeeba-maqbool">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/AdeMaq">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://ademaq.github.io">Portfolio</a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=AdeMaq&style=flat-square)
-
-<p align="center">
 
   <a href="mailto:adeebamaqbool198@gmail.com">
      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -43,14 +34,14 @@ I'm a recent Software Engineering graduate currently working as a Software Devel
 
 <br/>
 
-## 🚀 Currently
+## Currently
 
 - Building HomeCare Management System using ASP.NET Core + Angular + .NET MAUI
 - Learning Azure Cloud
-- Learning Docker & CI/CD
 - Exploring Microservices Architecture
+<br/>
 
-## 💼 Experience
+## Experience
 
 ### Software Development Intern
 **Devbasis**
@@ -69,6 +60,7 @@ I'm a recent Software Engineering graduate currently working as a Software Devel
 - PostgreSQL
 - TypeORM
 - MongoDB
+<br/>
 
 ## Tech Stack
 
@@ -196,16 +188,18 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeMaq&theme=github-dark"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdeMaq&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/username=AdeMaq&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdeMaq&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeMaq&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdeMaq&theme=tokyonight&hide_border=true" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeMaq&theme=github-dark"/>
 </p>
 
 <br/>

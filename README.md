@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer</b> · BS Software Engineering, PUCIT Lahore<br/>
-  <sub>Shipping full-stack systems across PERN and .NET/Angular — from AI-driven health platforms to peer-to-peer marketplaces.</sub>
+  <sub>Shipping full-stack systems across PERN and .NET/Angular, from AI-driven health platforms to peer-to-peer marketplaces.</sub>
 </p>
 
 <p align="center">
@@ -12,11 +12,29 @@
   <a href="https://ademaq.github.io">Portfolio</a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=AdeMaq&style=flat-square)
+
+<p align="center">
+
+  <a href="mailto:adeebamaqbool198@gmail.com">
+     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/adeeba-maqbool">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="https://ademaq.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
+  </a>
+
+</p>
+
 <br/>
 
 ## About
 
-I'm a recent Software Engineering graduate currently working as a Software Development Intern at **Devbasis**, building with Angular and .NET MAUI. My background spans the full stack — React/Node on one side, ASP.NET Core/Angular on the other — and I gravitate toward projects that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with real payment handling, a job portal built around SOLID principles.
+I'm a recent Software Engineering graduate currently working as a Software Development Intern at **Devbasis**, building with Angular and .NET MAUI. My background spans the full stack — React/Node on one side, ASP.NET Core/Angular on the other, and I gravitate toward projects that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with real payment handling, a job portal built around SOLID principles.
 
 - Currently building with **Angular** and **.NET MAUI** @ Devbais
 - Previously interned at **Cybros**, working across PostgreSQL, MongoDB, TypeORM, React, Node.js, and Express
@@ -24,6 +42,33 @@ I'm a recent Software Engineering graduate currently working as a Software Devel
 - Led content and communications as **Content Writers Lead**, Event Management Society, Punjab University
 
 <br/>
+
+## 🚀 Currently
+
+- Building HomeCare Management System using ASP.NET Core + Angular + .NET MAUI
+- Learning Azure Cloud
+- Learning Docker & CI/CD
+- Exploring Microservices Architecture
+
+## 💼 Experience
+
+### Software Development Intern
+**Devbasis**
+
+- Building Angular applications
+- Developing .NET MAUI mobile features
+- Working with REST APIs
+
+---
+
+### Full Stack Intern
+**Cybros**
+
+- React
+- Node.js
+- PostgreSQL
+- TypeORM
+- MongoDB
 
 ## Tech Stack
 
@@ -149,6 +194,15 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 <br/>
 
 ## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeMaq&theme=github-dark"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdeMaq&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/username=AdeMaq&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdeMaq&theme=tokyonight&hide_border=true" />

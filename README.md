@@ -188,7 +188,7 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AdeMaq&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AdeMaq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>

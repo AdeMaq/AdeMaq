@@ -194,9 +194,5 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeMaq&theme=github-dark" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
   <sub>Open to full-stack and backend roles · Lahore, Pakistan</sub>
 </p>

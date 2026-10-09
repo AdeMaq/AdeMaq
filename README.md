@@ -191,6 +191,14 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
   <img src="https://github-readme-stats.vercel.app/api?username=AdeMaq&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AdeMaq&theme=github-dark-blue" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://YOUR-PROJECT.vercel.app/graph?username=AdeMaq&theme=github-dark" alt="GitHub Activity Graph" />
+</p>
+
 <br/>
 
 <p align="center">

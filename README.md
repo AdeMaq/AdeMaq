@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=200&section=header&text=Adeeba%20Maqbool&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=.NET%20Developer%20%C2%B7%20ASP.NET%20Core%20%C2%B7%20Angular%20%C2%B7%20.NET%20MAUI&descAlignY=58&descSize=18" alt="Adeeba Maqbool banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:374151&height=140&section=header&text=Adeeba%20Maqbool&fontSize=44&fontColor=e5e7eb&fontAlignY=45&desc=.NET%20Developer%20%C2%B7%20ASP.NET%20Core%20%C2%B7%20Angular%20%C2%B7%20.NET%20MAUI&descAlignY=72&descSize=16&descColor=9ca3af" alt="Adeeba Maqbool banner" />
 
-<a href="https://github.com/AdeMaq">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=512BD4&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Devbasis+Technology;Building+JQZ+HomeCare+%E2%80%94+a+healthcare+platform;Clean+Architecture+%C2%B7+REST+APIs+%C2%B7+Cross-platform+Mobile;Open+to+exciting+.NET+%26+full-stack+opportunities" alt="Typing animation" />
-</a>
+<b>Software Developer @ Devbasis Technology</b><br/>
+<sub>Clean Architecture · REST APIs · Cross-platform mobile</sub>
 
 <br/>
 
@@ -14,7 +13,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AdeMaq&label=Profile%20views&color=512bd4&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2ea44f?style=flat-square" alt="Open to opportunities" />
 
@@ -52,7 +50,6 @@ A **Clean Architecture** healthcare platform that manages home-visit therapy, wi
 |---|---|
 | 📍 **Geolocation pipeline** | Multi-source resolver supporting 10+ map-link formats with a reverse-geocoding fallback, removing manual address entry from field-visit scheduling |
 | 🔌 **RESTful APIs** | Location and patient-management endpoints integrated with Geoapify geocoding, improving data accuracy across admin and practitioner workflows |
-| 📱 **Native-feel mobile** | Circular crop overlay (SkiaSharp) and ML Kit face-guided capture on a CameraX-backed custom MAUI Handler, solving Android platform issues via the Handler/Mapper pattern |
 | 🔔 **Integrations** | Google Maps geolocation, Firebase Cloud Messaging push notifications, Azure-ready deployment design |
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -210,12 +207,6 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 
 <img src="https://streak-stats.demolab.com/?user=AdeMaq&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeMaq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake-dark.svg" alt="Contribution snake" />
-
 </div>
 
 <br/>
@@ -231,5 +222,5 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 <div align="center">
   <b>Let's build something great together.</b><br/>
   <sub>Open to .NET, full-stack and backend roles · Lahore, Pakistan · adeebamaqbool198@gmail.com</sub>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=100&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:374151&height=80&section=footer" width="100%" alt="" />
 </div>

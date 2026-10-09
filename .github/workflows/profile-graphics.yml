@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile graphics
 
 on:
   schedule:
@@ -15,14 +15,24 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        run: python3 .github/scripts/activity_graph.py dist
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

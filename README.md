@@ -1,65 +1,73 @@
-<h1 align="center">Adeeba Maqbool</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer</b> · BS Software Engineering, PUCIT Lahore<br/>
-  <sub>Shipping full-stack systems across PERN and .NET/Angular, from AI-driven health platforms to peer-to-peer marketplaces.</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:374151&height=120&section=header&text=Adeeba%20Maqbool&fontSize=44&fontColor=e5e7eb&fontAlignY=50" alt="Adeeba Maqbool banner" />
 
-<p align="center">
+<a href="mailto:adeebamaqbool198@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adeeba-maqbool"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://ademaq.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
-  <a href="mailto:adeebamaqbool198@gmail.com">
-     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/adeeba-maqbool">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  
-  <a href="https://ademaq.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
-  </a>
+<br/><br/>
 
-</p>
+<img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2ea44f?style=flat-square" alt="Open to opportunities" />
+
+</div>
 
 <br/>
 
-## About
+## About Me
 
-I'm a recent Software Engineering graduate currently working as a Software Development Intern at **Devbasis**, building with Angular and .NET MAUI. My background spans the full stack, React/Node on one side, ASP.NET Core/Angular on the other, and I gravitate toward projects that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with real payment handling, a job portal built around SOLID principles.
+Full-stack developer working across **.NET**, **Node.js**, **Python**, **Angular** and **React**, with production experience in **ASP.NET Core**, **Angular**, and **.NET MAUI**. I'm a full-time **Software Developer at Devbasis Technology** (Lahore), where I joined as an intern and was converted to a full-time engineer after three months. I own features end to end on **JQZ HomeCare**, an industry healthcare-management platform: geolocation services, Clean Architecture APIs, and cross-platform mobile controls.
 
-- Currently building with **Angular** and **.NET MAUI** @ Devbasis
-- Previously interned at **Cybros**, working across PostgreSQL, MongoDB, TypeORM, React, Node.js, and Express
-- Final Year Project: **FitBot**, a 4-microservice AI fitness platform (DenseNet121, R² 0.88–0.92 BMI accuracy)
-- Led content and communications as **Content Writers Lead**, Event Management Society, Punjab University
+Outside of work I build things that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with availability tracking and booking calendars, a job portal built around SOLID principles.
+
+- 💼 Software Developer @ **Devbasis Technology**, building JQZ HomeCare (ASP.NET Core · Angular · .NET MAUI)
+- 🎓 BS Software Engineering, **PUCIT, University of the Punjab** (2022 – 2026)
+- 🤖 Final Year Project: **FitBot**, a 4-microservice AI fitness platform (DenseNet121, R² 0.88–0.92 BMI accuracy)
+- ✍️ Content Writers Lead, Event Management Society, University of the Punjab
+- 🌱 Currently learning **Azure Cloud** and exploring **Microservices Architecture**
 
 <br/>
 
-## Currently
+## Spotlight: JQZ HomeCare
 
-- Building HomeCare Management System using ASP.NET Core + Angular + .NET MAUI
-- Learning Azure Cloud
-- Exploring Microservices Architecture
+<div align="center">
+  <a href="https://github.com/AdeMaq/JQZHomeCreProject">
+    <img src="https://img.shields.io/badge/JQZ_HomeCare-Home--Visit_Therapy_Management-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="JQZ HomeCare" />
+  </a>
+</div>
+
+<br/>
+
+A **Clean Architecture** healthcare platform that manages home-visit therapy, with role-based access for admins and practitioners, built on **ASP.NET Core**, **Angular**, and **.NET MAUI** and designed for Azure deployment.
+
+| | |
+|---|---|
+| 📍 **Geolocation pipeline** | Multi-source resolver supporting 10+ map-link formats with a reverse-geocoding fallback, removing manual address entry from field-visit scheduling |
+| 🔌 **RESTful APIs** | Location and patient-management endpoints integrated with Geoapify geocoding, improving data accuracy across admin and practitioner workflows |
+| 🔔 **Integrations** | Google Maps geolocation, Firebase Cloud Messaging push notifications, Azure-ready deployment design |
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
 <br/>
 
 ## Experience
 
-### Software Development Intern
-**Devbasis**
+**Software Developer** · Devbasis Technology, Lahore, Pakistan · *Jun 2026 – Present*
+- Converted to full-time after a 3-month internship; own end-to-end feature delivery on JQZ HomeCare (ASP.NET Core, Angular, .NET MAUI).
+- Engineered a multi-source geolocation pipeline (10+ map-link formats, reverse-geocoding fallback) that removed manual address entry from field-visit scheduling.
+- Shipped location and patient-management REST APIs integrated with Geoapify, improving data accuracy across admin and practitioner workflows.
+- Built a circular crop overlay (SkiaSharp) and ML Kit face-guided camera capture on a CameraX-backed custom MAUI Handler for ChronicleOnline.
 
-- Building Angular applications
-- Developing .NET MAUI mobile features
-- Working with REST APIs
+**Web Development Intern** · Cybros, Lahore, Pakistan · *Jun 2025 – Aug 2025*
+- Delivered full-stack features with PostgreSQL, MongoDB, TypeORM, React.js, Node.js, and Express.js in an Agile sprint cycle; validated REST endpoints with Postman.
 
----
-
-### Full Stack Intern
-**Cybros**
-
-- React
-- Node.js
-- PostgreSQL
-- TypeORM
-- MongoDB
 <br/>
 
 ## Tech Stack
@@ -115,7 +123,7 @@ I'm a recent Software Engineering graduate currently working as a Software Devel
 **[RentAll](https://github.com/AdeMaq/RentAll)**
 <br/><sub>.NET · Angular · Stripe</sub>
 
-Peer-to-peer equipment rental marketplace. Handles booking calendars, availability tracking, and Stripe-secured security deposits. JWT authentication, password hashing, Swagger-documented APIs.
+Peer-to-peer rental marketplace with availability tracking and booking calendars. Stripe-secured deposits, JWT authentication, Swagger-documented REST APIs.
 
 </td>
 <td valign="top" width="50%">
@@ -133,7 +141,7 @@ Peer-to-peer equipment rental marketplace. Handles booking calendars, availabili
 **[Chronicles Online](https://github.com/AdeMaq/ChroniclesOnlineApp)**
 <br/><sub>.NET MAUI</sub>
 
-Cross-platform mobile application built during my internship at Devbais.
+Cross-platform mobile app at Devbasis Technology with a custom camera handler (SkiaSharp crop overlay, ML Kit face guidance).
 
 </td>
 <td valign="top" width="50%">
@@ -141,7 +149,7 @@ Cross-platform mobile application built during my internship at Devbais.
 **[Wise Market Clone](https://github.com/AdeMaq/MyApp)**
 <br/><sub>React · Node.js · Express · PostgreSQL</sub>
 
-Full-stack e-commerce platform built during my internship at Cybros — 15+ REST endpoints, Redux-managed state across 8 components.
+PERN e-commerce clone built during my Cybros internship: 15+ REST endpoints (Express.js, TypeORM), Redux across 8 modular components.
 
 </td>
 </tr>
@@ -187,17 +195,35 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdeMaq&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdeMaq&theme=github-dark-blue" alt="GitHub Streak Stats" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdeMaq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeMaq&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 
+<img src="https://streak-stats.demolab.com/?user=AdeMaq&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeMaq&bg_color=0d1117&color=9ca3af&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <br/>
 
-<p align="center">
-  <sub>Open to full-stack and backend roles · Lahore, Pakistan</sub>
-</p>
+## Certifications & Activities
+
+- Web Development Internship Certificate, Cybros (2025)
+- PUCon App Odyssey (2024) and PUCon UI/UX Competition (2025): Figma plant-care app prototype
+- Content Writers Lead, Event Management Society, University of the Punjab (2025 – 2026)
+
+<br/>
+
+<div align="center">
+  <b>Let's build something great together.</b><br/>
+  <sub>Open to .NET, full-stack and backend roles · Lahore, Pakistan · adeebamaqbool198@gmail.com</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:374151&height=80&section=footer" width="100%" alt="" />
+</div>

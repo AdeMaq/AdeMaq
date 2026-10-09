@@ -195,9 +195,6 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
   <img src="https://streak-stats.demolab.com/?user=AdeMaq&theme=github-dark-blue" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/AdeMaq" alt="GitHub Contribution Chart" />
-</p>
 
 <br/>
 

@@ -202,7 +202,11 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 
 <img src="https://streak-stats.demolab.com/?user=AdeMaq&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeMaq&bg_color=0d1117&color=9ca3af&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph.svg" />
+  <img alt="Contribution activity graph" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph.svg" width="100%" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake-dark.svg" />

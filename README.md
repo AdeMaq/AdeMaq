@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:374151&height=140&section=header&text=Adeeba%20Maqbool&fontSize=44&fontColor=e5e7eb&fontAlignY=45&desc=.NET%20Developer%20%C2%B7%20ASP.NET%20Core%20%C2%B7%20Angular%20%C2%B7%20.NET%20MAUI&descAlignY=72&descSize=16&descColor=9ca3af" alt="Adeeba Maqbool banner" />
-
-<b>Software Developer @ Devbasis Technology</b><br/>
-<sub>Clean Architecture · REST APIs · Cross-platform mobile</sub>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:374151&height=140&section=header&text=Adeeba%20Maqbool&fontSize=44&fontColor=e5e7eb&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Python%20%C2%B7%20Angular%20%C2%B7%20React&descAlignY=72&descSize=16&descColor=9ca3af" alt="Adeeba Maqbool banner" />
 
 <a href="mailto:adeebamaqbool198@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/adeeba-maqbool"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -22,7 +17,7 @@
 
 ## About Me
 
-.NET Developer with full-stack production experience in **ASP.NET Core**, **Angular**, and **.NET MAUI**. I'm a full-time **Software Developer at Devbasis Technology** (Lahore), where I joined as an intern and was converted to a full-time engineer after three months. I own features end to end on **JQZ HomeCare**, an industry healthcare-management platform: geolocation services, Clean Architecture APIs, and cross-platform mobile controls.
+Full-stack developer working across **.NET**, **Node.js**, **Python**, **Angular** and **React**, with production experience in **ASP.NET Core**, **Angular**, and **.NET MAUI**. I'm a full-time **Software Developer at Devbasis Technology** (Lahore), where I joined as an intern and was converted to a full-time engineer after three months. I own features end to end on **JQZ HomeCare**, an industry healthcare-management platform: geolocation services, Clean Architecture APIs, and cross-platform mobile controls.
 
 Outside of work I build things that combine clean architecture with something genuinely useful: an AI model that estimates BMI from a single photo, a rental marketplace with availability tracking and booking calendars, a job portal built around SOLID principles.
 

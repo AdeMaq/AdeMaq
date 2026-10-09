@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:374151&height=140&section=header&text=Adeeba%20Maqbool&fontSize=44&fontColor=e5e7eb&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Python%20%C2%B7%20Angular%20%C2%B7%20React&descAlignY=72&descSize=16&descColor=9ca3af" alt="Adeeba Maqbool banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:374151&height=120&section=header&text=Adeeba%20Maqbool&fontSize=44&fontColor=e5e7eb&fontAlignY=50" alt="Adeeba Maqbool banner" />
 
 <a href="mailto:adeebamaqbool198@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/adeeba-maqbool"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

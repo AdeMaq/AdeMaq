@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="280" viewBox="0 0 850 280" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="850" height="280" rx="12" fill="#0d1117"/>
+<text x="48" y="28" fill="#9ca3af" font-size="15" font-weight="600">Contributions · last 30 days · 61 total</text>
+<line x1="48" x2="826" y1="48.0" y2="48.0" stroke="#21262d"/>
+<text x="40" y="52.0" fill="#9ca3af" font-size="11" text-anchor="end">32</text>
+<line x1="48" x2="826" y1="96.0" y2="96.0" stroke="#21262d"/>
+<text x="40" y="100.0" fill="#9ca3af" font-size="11" text-anchor="end">24</text>
+<line x1="48" x2="826" y1="144.0" y2="144.0" stroke="#21262d"/>
+<text x="40" y="148.0" fill="#9ca3af" font-size="11" text-anchor="end">16</text>
+<line x1="48" x2="826" y1="192.0" y2="192.0" stroke="#21262d"/>
+<text x="40" y="196.0" fill="#9ca3af" font-size="11" text-anchor="end">8</text>
+<line x1="48" x2="826" y1="240.0" y2="240.0" stroke="#21262d"/>
+<text x="40" y="244.0" fill="#9ca3af" font-size="11" text-anchor="end">0</text>
+<text x="48.0" y="266" fill="#9ca3af" font-size="11" text-anchor="middle">Sep 11</text>
+<text x="182.1" y="266" fill="#9ca3af" font-size="11" text-anchor="middle">Sep 16</text>
+<text x="316.3" y="266" fill="#9ca3af" font-size="11" text-anchor="middle">Sep 21</text>
+<text x="450.4" y="266" fill="#9ca3af" font-size="11" text-anchor="middle">Sep 26</text>
+<text x="584.6" y="266" fill="#9ca3af" font-size="11" text-anchor="middle">Oct 01</text>
+<text x="718.7" y="266" fill="#9ca3af" font-size="11" text-anchor="middle">Oct 06</text>
+<path d="M48.0,222.0 L74.8,240.0 L101.7,240.0 L128.5,222.0 L155.3,234.0 L182.1,222.0 L209.0,204.0 L235.8,240.0 L262.6,240.0 L289.4,240.0 L316.3,222.0 L343.1,234.0 L369.9,240.0 L396.8,216.0 L423.6,240.0 L450.4,240.0 L477.2,240.0 L504.1,240.0 L530.9,240.0 L557.7,240.0 L584.6,240.0 L611.4,240.0 L638.2,240.0 L665.0,240.0 L691.9,240.0 L718.7,240.0 L745.5,240.0 L772.3,204.0 L799.2,54.0 L826.0,240.0 L826.0,240 L48.0,240 Z" fill="#58a6ff" fill-opacity="0.15"/>
+<path d="M48.0,222.0 L74.8,240.0 L101.7,240.0 L128.5,222.0 L155.3,234.0 L182.1,222.0 L209.0,204.0 L235.8,240.0 L262.6,240.0 L289.4,240.0 L316.3,222.0 L343.1,234.0 L369.9,240.0 L396.8,216.0 L423.6,240.0 L450.4,240.0 L477.2,240.0 L504.1,240.0 L530.9,240.0 L557.7,240.0 L584.6,240.0 L611.4,240.0 L638.2,240.0 L665.0,240.0 L691.9,240.0 L718.7,240.0 L745.5,240.0 L772.3,204.0 L799.2,54.0 L826.0,240.0" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="48.0" cy="222.0" r="3" fill="#58a6ff"/>
+<circle cx="128.5" cy="222.0" r="3" fill="#58a6ff"/>
+<circle cx="155.3" cy="234.0" r="3" fill="#58a6ff"/>
+<circle cx="182.1" cy="222.0" r="3" fill="#58a6ff"/>
+<circle cx="209.0" cy="204.0" r="3" fill="#58a6ff"/>
+<circle cx="316.3" cy="222.0" r="3" fill="#58a6ff"/>
+<circle cx="343.1" cy="234.0" r="3" fill="#58a6ff"/>
+<circle cx="396.8" cy="216.0" r="3" fill="#58a6ff"/>
+<circle cx="772.3" cy="204.0" r="3" fill="#58a6ff"/>
+<circle cx="799.2" cy="54.0" r="3" fill="#58a6ff"/>
+</svg>

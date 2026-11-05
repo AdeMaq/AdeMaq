@@ -212,15 +212,15 @@ Rule-based NLP engine that parses fitness prompts and recommends workout videos 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph.svg" />
-  <img alt="Contribution activity graph" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph.svg?v=3" />
+  <img alt="Contribution activity graph" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/activity-graph.svg?v=3" width="100%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake.svg?v=3" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AdeMaq/AdeMaq/output/github-snake.svg?v=3" />
 </picture>
 
 </div>

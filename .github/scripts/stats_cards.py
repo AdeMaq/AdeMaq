@@ -14,7 +14,7 @@ QUERY = """
 query($login: String!) {
   user(login: $login) {
     followers { totalCount }
-    repositories(ownerAffiliation: OWNER, isFork: false, first: 100) {
+    repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
       totalCount
       nodes {
         stargazerCount

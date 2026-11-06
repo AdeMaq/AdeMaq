@@ -24,6 +24,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats cards
+        continue-on-error: true
         run: python3 .github/scripts/stats_cards.py dist
         env:
           GH_USER: ${{ github.repository_owner }}
